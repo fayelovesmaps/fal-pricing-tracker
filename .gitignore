@@ -1,0 +1,20 @@
+# Generated dashboard (rebuilt from template on each run)
+dashboard.html
+
+# Snapshot + history data
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Throwaway debug script
+test
